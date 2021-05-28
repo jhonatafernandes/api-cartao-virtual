@@ -1,0 +1,8 @@
+C:\Users\jfo\Desktop\API\Infra\bin\Debug\netstandard2.0\Infra.deps.json
+C:\Users\jfo\Desktop\API\Infra\bin\Debug\netstandard2.0\Infra.dll
+C:\Users\jfo\Desktop\API\Infra\bin\Debug\netstandard2.0\Infra.pdb
+C:\Users\jfo\Desktop\API\Infra\obj\Debug\netstandard2.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\jfo\Desktop\API\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\jfo\Desktop\API\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfo.cs
+C:\Users\jfo\Desktop\API\Infra\obj\Debug\netstandard2.0\Infra.dll
+C:\Users\jfo\Desktop\API\Infra\obj\Debug\netstandard2.0\Infra.pdb
